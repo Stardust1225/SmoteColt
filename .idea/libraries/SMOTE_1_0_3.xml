@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SMOTE-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SMOTE-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
